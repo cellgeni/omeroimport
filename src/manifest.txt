@@ -1,0 +1,5 @@
+file	omero_group	omero_project	omero_dataset	omero_username
+/path/to/images/image1.ndpi	AB_XYZ	Project1	Dataset1	ob1
+/path/to/images/image2-1.ndpi	AB_XYZ	Project1	Dataset2	ob1
+/path/to/images/image2-2.ndpi	AB_XYZ	Project1	Dataset2	ob1
+/path/to/images/image3.ndpi	AB_XYZ	Project1	Dataset3	ob1
